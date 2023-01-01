@@ -9,7 +9,7 @@ public class CtsApplication {
 	public static void main(String[] args) {
 		//Springboot application
 		SpringApplication.run(CtsApplication.class, args);
-		System.out.println();
+		System.out.println("CTS");
 	}
 
 }
