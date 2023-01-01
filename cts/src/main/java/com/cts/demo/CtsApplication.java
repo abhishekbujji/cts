@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CtsApplication {
 
 	public static void main(String[] args) {
+		//Springboot application
 		SpringApplication.run(CtsApplication.class, args);
 	}
 
